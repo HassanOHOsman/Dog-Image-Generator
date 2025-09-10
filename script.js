@@ -2,6 +2,7 @@ const title = document.createElement("h1");
 title.textContent = "Dog Image Generator";
 document.body.append(title);
 
+title.style.color = "#240046";
 title.style.textAlign = "center";
 title.style.fontFamily = "system-ui";
 
